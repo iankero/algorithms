@@ -6,7 +6,7 @@ Version 1:
 Future improvements:
 - allow the user to randomize the numbered list through
     - letting them choose the length of the list
-- let the linear/binary search continue searching for more of the desired item
+- let the linear/binary search continue searching for more of the desired item rather than stopping at the 1st instance
 - use 'import time' in order to compare efficiency of:
     - binary search
     - linear search
