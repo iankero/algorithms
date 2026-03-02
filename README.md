@@ -12,3 +12,7 @@ Future improvements:
     - linear search
 - introduce error handling
 - allow the user to automate searches
+
+
+Version 1.1:
+- Implemented: 'search' function allowing the user to choose between a binary and linear search
